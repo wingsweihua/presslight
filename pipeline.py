@@ -6,7 +6,7 @@ from generator import Generator
 from construct_sample import ConstructSample
 from updater import Updater
 from multiprocessing import Process, Pool
-from model_pool import ModelPool
+# from model_pool import ModelPool
 import random
 import pickle
 import model_test
