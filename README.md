@@ -3,7 +3,7 @@
 PressLight is a reinforcement learning agent for network-level traffic signal control.
 
 ```
-@inproceedings{Wei:2019:PLM:3292500.3330949,
+@inproceedings{presslight19,
  author = {Wei, Hua and Chen, Chacha and Zheng, Guanjie and Wu, Kan and Gayah, Vikash and Xu, Kai and Li, Zhenhui},
  title = {PressLight: Learning Max Pressure Control to Coordinate Traffic Signals in Arterial Network},
  booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
