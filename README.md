@@ -1,5 +1,7 @@
 # presslight
 
+#### This repository is provided as-is, further updates are included in [LibSignal](https://darl-libsignal.github.io/), which supports flexible and cross-platform (CityFlow and SUMO) training and testing in PyTorch. We also actively looking for contributions for LibSignal, feel free to reach out if you would love to contribute to the project!
+
 PressLight is a reinforcement learning agent for network-level traffic signal control.
 
 ```
